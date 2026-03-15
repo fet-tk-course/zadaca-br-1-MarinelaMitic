@@ -113,7 +113,7 @@ Repozitorij treba sadržavati:
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.
 
 ## Uvod
 Moje ime je Marinela Mitić. Imam 23 godine i dolazim iz Tuzle. Studentica sam treće godine Fakulteta elktrotehnike u Tuzli, na smjeru Telekumikacije i informacione tehnologije.
